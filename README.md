@@ -1,6 +1,6 @@
 # Part 1: Main Tools
 
-These are the main tools we'll be using during for Angular development. Note that these could be swapped out to a certain extent based on need and personal preference but this should demonstrate how to properly configure things to make your life easier.
+These are the main tools we'll be using for Angular development. Note that these could be swapped out to a certain extent based on need and personal preference but this should demonstrate how to properly configure things to make your life easier.
 
 ## Git
 We'll be using git for this demonstration but this could be adapted to other source control systems like SVN or VSTS. More specifically, we'll be using GitBash for this demonstration but you can use a different commandline tool if you'd prefer. GitBash provides more functionality as well as better command history and the more universal *nix tooling (like 'ls' instead of 'dir').
