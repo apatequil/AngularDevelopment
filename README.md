@@ -188,7 +188,7 @@ Now we're ready to start creating our own applications. The first step is to cre
         + Note that you'll need to manually update any existing styles.
 2. Note that the CLI went ahead and created/initialized a git repository for our application.
 3. Update the .gitignore file to exclude unecessary items from making it into git.
-    + You can download a pre-built git ignore file that includes most of what you need excluded for a project. Find the templates at [this git repository]
+    + You can download a pre-built git ignore file that includes most of what you need excluded for a project. Find the templates at [this git repository](https://github.com/github/gitignore).
         + I'd recommend the Angular template and possibly the Visual Studio template if you plan on using VS for more than merges/diffs.
 
 # Part 7: Linting and Formatting
