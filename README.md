@@ -17,13 +17,13 @@ We'll be using git for this demonstration but this could be adapted to other sou
         - Let's set our name that will appear on our repository actions. In GitBash, execute the following command:
 
             ```
-            git config --global user.name "Sean Merritt"
+            git config --global user.name "John Doe"
             ```
             - If you'd rather this not be global, make sure you've navigated to your workspace and then execute the same command sans "--global"
         - We'll do the same for our email:
 
             ```
-            git config --global user.email "sean.merritt@us.sogeti.com"
+            git config --global user.email "john.doe@some.mail.com"
             ```
     
 
