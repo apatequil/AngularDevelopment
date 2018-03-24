@@ -1,0 +1,13 @@
+{
+    parser: "typescript",
+    "overrides": [
+        {
+            "files": "*.ts",
+            "options": {
+                semi: true,
+                singleQuote: true,
+                bracketSpacing: true,
+            }
+        }
+    ]
+}
